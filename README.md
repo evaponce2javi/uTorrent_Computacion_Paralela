@@ -1,2 +1,3 @@
-# uTorrent_Computacion_Paralela
-Proyecto de Computación Paralela y Distribuida, cuyo tema es uTorrent.
+# Utorrent
+
+uTorrent, o µTorrent, es un cliente BitTorrent ligero que permite a los usuarios descargar y compartir archivos a través del protocolo peer-to-peer (P2P). El nombre usa la letra griega µ (micro), haciendo referencia a su filosofía de diseño: máxima funcionalidad con mínimo consumo de recursos. A diferencia de los métodos tradicionales de descarga, donde una única fuente central provee el archivo completo, BitTorrent permite descargar partes del archivo desde múltiples fuentes simultáneamente, acelerando significativamente el proceso. Para usar BitTorrent, los individuos emplean un cliente BitTorrent que interactúa con un archivo .torrent y se conecta a un tracker que coordina el intercambio de archivos entre usuarios en un “swarm”. Los usuarios que descargan se denominan leechers o peers; quienes mantienen el archivo completo y suben, se conocen como seeders
